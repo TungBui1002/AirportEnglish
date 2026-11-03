@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Airport English – PBB Learning | Tiếng Anh Vận Hành Cầu Hành Khách</title>
+    <meta name="description" content="Nền tảng học tiếng Anh chuyên ngành hàng không và vận hành cầu hành khách (Passenger Boarding Bridge - PBB). Học qua Flashcard, Quiz trắc nghiệm và mẫu câu tác nghiệp." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body>
+    <div id="app" class="app-layout">
+      <!-- Sidebar Desktop -->
+      <aside class="sidebar" id="app-sidebar">
+        <div class="brand">
+          <div class="brand-icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.3c.4-.2.6-.6.5-1.1z"/>
+            </svg>
+          </div>
+          <div class="brand-text">
+            <h1>Airport English</h1>
+            <span>PBB Operations</span>
+          </div>
+        </div>
+
+        <nav class="sidebar-nav">
+          <div class="nav-label">Chương trình học</div>
+
+          <a href="#dashboard" class="nav-item active" data-page="dashboard">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+            <span>Tổng quan (Dashboard)</span>
+          </a>
+
+          <a href="#vocabulary" class="nav-item" data-page="vocabulary">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+            </svg>
+            <span>Từ vựng PBB</span>
+            <span class="nav-badge" id="sidebar-vocab-count">57</span>
+          </a>
+
+          <a href="#flashcard" class="nav-item" data-page="flashcard">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+              <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+            </svg>
+            <span>Thẻ Flashcard</span>
+          </a>
+
+          <a href="#quiz" class="nav-item" data-page="quiz">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <path d="m9 12 2 2 4-4"></path>
+            </svg>
+            <span>Trắc nghiệm (Quiz)</span>
+            <span class="nav-badge" style="background: var(--emerald-600); color: #fff;">5 Chế độ</span>
+          </a>
+
+          <div class="nav-label">Thực hành tác nghiệp</div>
+
+          <a href="#sentence-practice" class="nav-item" data-page="sentence-practice">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+            <span>Mẫu câu giao tiếp</span>
+            <span class="nav-badge">8 Chủ đề</span>
+          </a>
+
+          <a href="#sentence-quiz" class="nav-item" data-page="sentence-quiz">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 20h9"></path>
+              <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+            </svg>
+            <span>Luyện ghép câu</span>
+          </a>
+
+          <div class="nav-label">Thống kê</div>
+
+          <a href="#progress" class="nav-item" data-page="progress">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="20" x2="18" y2="10"></line>
+              <line x1="12" y1="20" x2="12" y2="4"></line>
+              <line x1="6" y1="20" x2="6" y2="14"></line>
+            </svg>
+            <span>Tiến độ & Lịch sử</span>
+          </a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <div class="sidebar-tagline">
+            "Learn English.<br>Understand Aviation.<br>Operate Safely."
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main App Viewport -->
+      <main class="main-content">
+        <!-- Top Sticky Header -->
+        <header class="top-header">
+          <div class="header-left">
+            <button class="mobile-menu-toggle" id="btn-mobile-menu" aria-label="Menu">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+              </svg>
+            </button>
+            <div class="page-title-badge">
+              <h2 class="page-title" id="header-page-title">Dashboard</h2>
+            </div>
+          </div>
+
+          <div class="header-right">
+            <div class="quick-stats-pill" id="header-stats-pill">
+              <div class="stat-pill-item green">
+                <span>✓</span>
+                <span id="pill-mastered-count">0</span>
+              </div>
+              <div class="stat-pill-item amber">
+                <span>⭐</span>
+                <span id="pill-fav-count">0</span>
+              </div>
+              <div class="stat-pill-item sky">
+                <span>🎯</span>
+                <span id="pill-quiz-count">0</span>
+              </div>
+            </div>
+          </div>
+        </header>
+
+        <!-- Dynamic Page Container -->
+        <div class="page-container" id="page-content">
+          <!-- Page will be rendered here dynamically -->
+        </div>
+      </main>
+
+      <!-- Mobile Bottom Navigation -->
+      <nav class="bottom-nav">
+        <a href="#dashboard" class="bottom-nav-item active" data-page="dashboard">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="3" width="7" height="7"></rect>
+            <rect x="14" y="3" width="7" height="7"></rect>
+            <rect x="14" y="14" width="7" height="7"></rect>
+            <rect x="3" y="14" width="7" height="7"></rect>
+          </svg>
+          <span>Tổng quan</span>
+        </a>
+        <a href="#vocabulary" class="bottom-nav-item" data-page="vocabulary">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+          </svg>
+          <span>Từ vựng</span>
+        </a>
+        <a href="#flashcard" class="bottom-nav-item" data-page="flashcard">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+            <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+          </svg>
+          <span>Flashcard</span>
+        </a>
+        <a href="#quiz" class="bottom-nav-item" data-page="quiz">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="m9 12 2 2 4-4"></path>
+          </svg>
+          <span>Quiz</span>
+        </a>
+        <a href="#progress" class="bottom-nav-item" data-page="progress">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="20" x2="18" y2="10"></line>
+            <line x1="12" y1="20" x2="12" y2="4"></line>
+            <line x1="6" y1="20" x2="6" y2="14"></line>
+          </svg>
+          <span>Tiến độ</span>
+        </a>
+      </nav>
+    </div>
+
+    <!-- Application Script Entry -->
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

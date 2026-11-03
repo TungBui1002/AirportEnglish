@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "topicId": 1,
+    "topic": "Passenger Boarding Bridge Operations",
+    "english": "Please check the passenger boarding bridge position before docking.",
+    "vietnamese": "Vui lòng kiểm tra vị trí cầu hành khách trước khi thực hiện thao tác cập cầu.",
+    "importantVocabulary": [
+      { "word": "Check", "meaning": "Kiểm tra" },
+      { "word": "Position", "meaning": "Vị trí" },
+      { "word": "Docking", "meaning": "Thao tác cập cầu" }
+    ],
+    "situation": "Trước khi di chuyển cầu tiếp cận thân máy bay vừa dừng bánh.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 2,
+    "topicId": 1,
+    "topic": "Passenger Boarding Bridge Operations",
+    "english": "Ensure the auto-leveler shoe is firmly placed against the aircraft fuselage.",
+    "vietnamese": "Đảm bảo chân cảm biến cân bằng tự động được đặt áp sát chắc chắn vào thân máy bay.",
+    "importantVocabulary": [
+      { "word": "Auto-leveler", "meaning": "Bộ cân bằng tự động" },
+      { "word": "Fuselage", "meaning": "Thân máy bay" },
+      { "word": "Firmly", "meaning": "Chắc chắn, vững vàng" }
+    ],
+    "situation": "Sau khi mui cầu đã áp sát cửa máy bay, chuẩn bị mở cửa đón khách.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 3,
+    "topicId": 1,
+    "topic": "Passenger Boarding Bridge Operations",
+    "english": "Retract the bridge canopy and extend the safety barrier before undocking.",
+    "vietnamese": "Thu hồi mui bạt che cầu và kéo rào chắn an toàn trước khi tách cầu khỏi máy bay.",
+    "importantVocabulary": [
+      { "word": "Retract", "meaning": "Thu hồi, rút lại" },
+      { "word": "Canopy", "meaning": "Mui bạt che thời tiết" },
+      { "word": "Safety barrier", "meaning": "Rào chắn an toàn" },
+      { "word": "Undocking", "meaning": "Tách cầu/rút cầu" }
+    ],
+    "situation": "Chuẩn bị tháo cầu trước giờ máy bay khởi hành.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 4,
+    "topicId": 2,
+    "topic": "Aircraft Parking and Docking",
+    "english": "Wait for the aircraft engines to shut down and chocks to be inserted before approaching.",
+    "vietnamese": "Đợi động cơ máy bay tắt hoàn toàn và chèn bánh đã được đặt trước khi tiếp cận.",
+    "importantVocabulary": [
+      { "word": "Engine shut down", "meaning": "Tắt động cơ" },
+      { "word": "Chocks inserted", "meaning": "Đã chèn bánh máy bay" },
+      { "word": "Approaching", "meaning": "Tiếp cận" }
+    ],
+    "situation": "Quy tắc an toàn mặt đất bắt buộc trước khi bắt đầu lái cầu ra.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 5,
+    "topicId": 2,
+    "topic": "Aircraft Parking and Docking",
+    "english": "The visual docking guidance system indicates the aircraft is off-center by two meters.",
+    "vietnamese": "Hệ thống hướng dẫn đỗ tàu bay bằng mắt (VGDS) báo máy bay đang lệch tâm 2 mét.",
+    "importantVocabulary": [
+      { "word": "Guidance system", "meaning": "Hệ thống chỉ dẫn" },
+      { "word": "Off-center", "meaning": "Lệch tâm đường lăn" },
+      { "word": "Indicates", "meaning": "Hiển thị, báo hiệu" }
+    ],
+    "situation": "Khi máy bay đang lăn vào bãi đỗ nhưng bị lệch tim đường.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 6,
+    "topicId": 2,
+    "topic": "Aircraft Parking and Docking",
+    "english": "Verify the aircraft type on the pilot display unit matches the flight dispatch sheet.",
+    "vietnamese": "Xác minh loại máy bay hiển thị trên bảng PDU khớp với bảng thông số điều phái chuyến bay.",
+    "importantVocabulary": [
+      { "word": "Aircraft type", "meaning": "Loại tàu bay" },
+      { "word": "Display unit", "meaning": "Bảng hiển thị" },
+      { "word": "Dispatch sheet", "meaning": "Bảng phân bổ/điều phái" }
+    ],
+    "situation": "Kiểm tra cấu hình loại máy bay (A321, B787, A350) trước khi kích hoạt quy trình cập.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 7,
+    "topicId": 3,
+    "topic": "Safety Instructions",
+    "english": "Always maintain a clear safety clearance zone around the bridge wheel drive path.",
+    "vietnamese": "Luôn duy trì khu vực khoảng cách an toàn thông thoáng xung quanh vệt bánh xe truyền động của cầu.",
+    "importantVocabulary": [
+      { "word": "Clearance zone", "meaning": "Khu vực khoảng cách an toàn" },
+      { "word": "Wheel drive path", "meaning": "Vệt di chuyển bánh xe" },
+      { "word": "Maintain", "meaning": "Duy trì, giữ gìn" }
+    ],
+    "situation": "Cảnh báo nhân viên mặt đất và xe phục vụ không đỗ trong vùng quay cầu.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 8,
+    "topicId": 3,
+    "topic": "Safety Instructions",
+    "english": "Sound the audible warning alarm and turn on the amber beacon before moving the bridge.",
+    "vietnamese": "Bấm còi cảnh báo âm thanh và bật đèn xoay màu hổ phách trước khi di chuyển cầu.",
+    "importantVocabulary": [
+      { "word": "Audible warning alarm", "meaning": "Còi cảnh báo âm thanh" },
+      { "word": "Amber beacon", "meaning": "Đèn chớp xoay màu hổ phách" },
+      { "word": "Moving", "meaning": "Di chuyển" }
+    ],
+    "situation": "Thao tác cảnh giới bắt buộc theo SOP trước mỗi lần dịch chuyển PBB.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 9,
+    "topicId": 3,
+    "topic": "Safety Instructions",
+    "english": "Do not operate the bridge during extreme weather conditions when wind speeds exceed fifty knots.",
+    "vietnamese": "Không vận hành cầu trong điều kiện thời tiết cực đoan khi tốc độ gió vượt quá 50 hải lý/giờ.",
+    "importantVocabulary": [
+      { "word": "Extreme weather", "meaning": "Thời tiết cực đoan" },
+      { "word": "Exceed", "meaning": "Vượt quá" },
+      { "word": "Wind speed", "meaning": "Tốc độ gió" },
+      { "word": "Knots", "meaning": "Hải lý/giờ" }
+    ],
+    "situation": "Khi có giông bão lớn hoặc cảnh báo gió giật mạnh tại sân bay.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 10,
+    "topicId": 4,
+    "topic": "Emergency Situations",
+    "english": "Press the emergency stop button immediately if the bridge fails to decelerate.",
+    "vietnamese": "Nhấn nút dừng khẩn cấp ngay lập tức nếu cầu không giảm tốc độ khi đến gần máy bay.",
+    "importantVocabulary": [
+      { "word": "Emergency stop button", "meaning": "Nút dừng khẩn cấp" },
+      { "word": "Immediately", "meaning": "Ngay lập tức" },
+      { "word": "Decelerate", "meaning": "Giảm tốc độ" }
+    ],
+    "situation": "Tình huống khẩn cấp khi hệ thống phanh hoặc biến tần gặp trục trặc.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 11,
+    "topicId": 4,
+    "topic": "Emergency Situations",
+    "english": "In the event of an apron fire alarm, evacuate all passengers through the terminal stairwell.",
+    "vietnamese": "Trong trường hợp có báo động cháy sân đỗ, sơ tán toàn bộ hành khách qua cầu thang bộ nhà ga.",
+    "importantVocabulary": [
+      { "word": "Apron fire alarm", "meaning": "Báo động cháy sân đỗ" },
+      { "word": "Evacuate", "meaning": "Sơ tán" },
+      { "word": "Stairwell", "meaning": "Lối thang bộ" }
+    ],
+    "situation": "Quy trình ứng phó tình huống cháy nổ hoặc sự cố an ninh khẩn cấp.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 12,
+    "topicId": 4,
+    "topic": "Emergency Situations",
+    "english": "If the auto-leveler fails, manually disengage and report the fault to maintenance immediately.",
+    "vietnamese": "Nếu bộ tự động cân bằng bị lỗi, hãy ngắt khớp thủ công và báo ngay cho tổ bảo trì.",
+    "importantVocabulary": [
+      { "word": "Auto-leveler", "meaning": "Bộ cân bằng tự động" },
+      { "word": "Manually disengage", "meaning": "Ngắt khớp bằng tay" },
+      { "word": "Report the fault", "meaning": "Báo cáo lỗi kỹ thuật" }
+    ],
+    "situation": "Xử lý khi cảm biến cao độ cảnh báo lỗi để tránh làm móp méo cửa tàu bay.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 13,
+    "topicId": 5,
+    "topic": "Equipment Inspection",
+    "english": "Inspect the rubber bumper and bellows for cracks, wear, or foreign debris before shift start.",
+    "vietnamese": "Kiểm tra đệm cao su và bạt xếp mui xem có vết nứt, mài mòn hay dị vật trước khi bắt đầu ca trực.",
+    "importantVocabulary": [
+      { "word": "Rubber bumper", "meaning": "Đệm giảm chấn cao su" },
+      { "word": "Bellows", "meaning": "Màng gấp bạt nhún" },
+      { "word": "Shift start", "meaning": "Đầu ca làm việc" }
+    ],
+    "situation": "Kiểm tra ngoại quan đầu ca làm việc của nhân viên vận hành.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 5,
+    "topicId": 5,
+    "topic": "Equipment Inspection",
+    "english": "Confirm that the CCTV display and apron floodlights are operating properly.",
+    "vietnamese": "Xác nhận màn hình camera CCTV và đèn pha chiếu sáng sân đỗ đang hoạt động bình thường.",
+    "importantVocabulary": [
+      { "word": "Confirm", "meaning": "Xác nhận" },
+      { "word": "Floodlights", "meaning": "Đèn pha chiếu sáng" },
+      { "word": "Operating properly", "meaning": "Hoạt động bình thường" }
+    ],
+    "situation": "Kiểm tra hệ thống hỗ trợ tầm nhìn ban đêm trước giờ đón tàu bay.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 15,
+    "topicId": 5,
+    "topic": "Equipment Inspection",
+    "english": "Examine the GPU aircraft connector pins for signs of pitting, overheating, or corrosion.",
+    "vietnamese": "Kiểm tra các chân cắm đầu nối GPU máy bay xem có dấu hiệu rỗ mặt, quá nhiệt hoặc rỉ sét.",
+    "importantVocabulary": [
+      { "word": "Connector pins", "meaning": "Các chân cắm đầu nối" },
+      { "word": "Overheating", "meaning": "Quá nhiệt" },
+      { "word": "Corrosion", "meaning": "Ăn mòn, rỉ sét" }
+    ],
+    "situation": "Kiểm tra định kỳ thiết bị cấp điện 400Hz nhằm phòng chống chập cháy.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 16,
+    "topicId": 6,
+    "topic": "Technical Maintenance",
+    "english": "Lubricate the vertical lift screw jacks and horizontal drive gears according to schedule.",
+    "vietnamese": "Tra mỡ bôi trơn các trục vít nâng thẳng đứng và bánh răng truyền động theo đúng lịch trình.",
+    "importantVocabulary": [
+      { "word": "Lubricate", "meaning": "Tra mỡ, bôi trơn" },
+      { "word": "Lift screw jacks", "meaning": "Trục vít nâng hạ" },
+      { "word": "Drive gears", "meaning": "Bánh răng truyền động" }
+    ],
+    "situation": "Bảo dưỡng cơ khí định kỳ hàng tháng cho PBB.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 17,
+    "topicId": 6,
+    "topic": "Technical Maintenance",
+    "english": "Calibrate the elevation limit switches to prevent the bridge from exceeding mechanical stops.",
+    "vietnamese": "Hiệu chuẩn các công tắc hành trình độ cao để ngăn cầu vượt quá cữ chặn cơ khí.",
+    "importantVocabulary": [
+      { "word": "Calibrate", "meaning": "Hiệu chuẩn, căn chỉnh" },
+      { "word": "Limit switch", "meaning": "Công tắc hành trình" },
+      { "word": "Mechanical stops", "meaning": "Cữ chặn cơ học" }
+    ],
+    "situation": "Căn chỉnh hệ thống an toàn nâng hạ tránh va chạm kết cấu.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 18,
+    "topicId": 6,
+    "topic": "Technical Maintenance",
+    "english": "Perform an insulation resistance test on the 400Hz power cable every six months.",
+    "vietnamese": "Thực hiện đo điện trở cách điện cho tuyến cáp nguồn 400Hz mỗi sáu tháng một lần.",
+    "importantVocabulary": [
+      { "word": "Insulation resistance", "meaning": "Điện trở cách điện" },
+      { "word": "Power cable", "meaning": "Cáp nguồn điện" },
+      { "word": "Test", "meaning": "Đo kiểm, thử nghiệm" }
+    ],
+    "situation": "Quy trình kiểm tra an toàn điện định kỳ của kỹ sư bảo dưỡng.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 19,
+    "topicId": 7,
+    "topic": "Communication at Airport",
+    "english": "Stand 12 bridge is docked and ready for passenger disembarkation.",
+    "vietnamese": "Cầu bến 12 đã cập xong và sẵn sàng cho hành khách rời tàu bay.",
+    "importantVocabulary": [
+      { "word": "Stand", "meaning": "Bến đỗ tàu bay" },
+      { "word": "Ready", "meaning": "Sẵn sàng" },
+      { "word": "Disembarkation", "meaning": "Rời máy bay, xuống tàu" }
+    ],
+    "situation": "Thông báo qua bộ đàm cho nhân viên mặt đất và tổ tiếp viên.",
+    "difficulty": "Basic"
+  },
+  {
+    "id": 20,
+    "topicId": 7,
+    "topic": "Communication at Airport",
+    "english": "Ground handler to bridge operator: hold bridge movement, fueling hose is still connected.",
+    "vietnamese": "Nhân viên mặt đất gọi người vận hành cầu: dừng di chuyển cầu, ống nạp nhiên liệu vẫn đang nối.",
+    "importantVocabulary": [
+      { "word": "Hold movement", "meaning": "Tạm dừng di chuyển" },
+      { "word": "Fueling hose", "meaning": "Ống nạp nhiên liệu" },
+      { "word": "Connected", "meaning": "Đang kết nối" }
+    ],
+    "situation": "Cảnh báo khẩn qua bộ đàm sân đỗ nhằm ngăn ngừa tai nạn kéo đứt ống nhiên liệu.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 21,
+    "topicId": 7,
+    "topic": "Communication at Airport",
+    "english": "Cabin crew reports the front door is disarmed and cleared for bridge alignment.",
+    "vietnamese": "Tổ tiếp viên báo cửa trước đã mở chốt an toàn phao trượt và cho phép căn chỉnh cầu.",
+    "importantVocabulary": [
+      { "word": "Cabin crew", "meaning": "Tổ tiếp viên hàng không" },
+      { "word": "Disarmed", "meaning": "Đã ngắt chốt kích nổ phao trượt" },
+      { "word": "Alignment", "meaning": "Căn chỉnh vị trí" }
+    ],
+    "situation": "Xác nhận tín hiệu từ tiếp viên trước khi đưa mui cầu vào khớp mép cửa.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 22,
+    "topicId": 8,
+    "topic": "Electrical and Control Systems",
+    "english": "The PLC detects a communication timeout between the main console and the drive inverter.",
+    "vietnamese": "Bộ điều khiển PLC phát hiện lỗi mất tín hiệu truyền thông giữa bàn điều khiển chính và biến tần.",
+    "importantVocabulary": [
+      { "word": "Communication timeout", "meaning": "Hết thời gian chờ truyền thông" },
+      { "word": "Console", "meaning": "Bàn điều khiển" },
+      { "word": "Drive inverter", "meaning": "Biến tần truyền động" }
+    ],
+    "situation": "Chẩn đoán mã lỗi xuất hiện trên màn hình vận hành kỹ thuật.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": 23,
+    "topicId": 8,
+    "topic": "Electrical and Control Systems",
+    "english": "Verify that the uninterruptible power supply battery voltage is within acceptable limits.",
+    "vietnamese": "Kiểm tra điện áp ắc quy của bộ lưu điện UPS nằm trong giới hạn cho phép.",
+    "importantVocabulary": [
+      { "word": "Uninterruptible power supply", "meaning": "Bộ lưu điện UPS" },
+      { "word": "Battery voltage", "meaning": "Điện áp ắc quy" },
+      { "word": "Acceptable limits", "meaning": "Giới hạn cho phép" }
+    ],
+    "situation": "Kiểm tra nguồn điện dự phòng khi kiểm toán hệ thống điện sân bay.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 24,
+    "topicId": 8,
+    "topic": "Electrical and Control Systems",
+    "english": "Reset the safety interlock circuit on the main distribution panel after resolving the fault.",
+    "vietnamese": "Khởi động lại mạch khóa liên động an toàn trên tủ phân phối điện chính sau khi khắc phục xong lỗi.",
+    "importantVocabulary": [
+      { "word": "Reset", "meaning": "Khởi động lại/thiết lập lại" },
+      { "word": "Safety interlock circuit", "meaning": "Mạch khóa liên động an toàn" },
+      { "word": "Distribution panel", "meaning": "Tủ phân phối điện" }
+    ],
+    "situation": "Thao tác đưa cầu trở lại hoạt động sau khi xử lý xong sự cố kẹt hành trình.",
+    "difficulty": "Advanced"
+  }
+]

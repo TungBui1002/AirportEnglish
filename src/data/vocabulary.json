@@ -1,0 +1,516 @@
+[
+  {
+    "id": 1,
+    "abbreviation": "A/L",
+    "fullName": "Auto Leveler",
+    "meaning": "Bộ tự động cân bằng/cân bằng cao độ",
+    "category": "PBB",
+    "exampleSentence": "The auto leveler must be engaged once the bridge is docked to follow aircraft movement.",
+    "exampleTranslation": "Bộ tự động cân bằng phải được kích hoạt sau khi cầu cập vào máy bay để theo dõi chuyển động nâng hạ của tàu bay."
+  },
+  {
+    "id": 2,
+    "abbreviation": "AC",
+    "fullName": "Alternating Current",
+    "meaning": "Dòng điện xoay chiều",
+    "category": "Electrical",
+    "exampleSentence": "Verify that the 400Hz AC power supply is stable before connecting to the aircraft.",
+    "exampleTranslation": "Xác nhận nguồn điện xoay chiều AC 400Hz ổn định trước khi cắm nối vào tàu bay."
+  },
+  {
+    "id": 3,
+    "abbreviation": "AC-DC",
+    "fullName": "Alternating Current – Direct Current",
+    "meaning": "Xoay chiều – Một chiều",
+    "category": "Electrical",
+    "exampleSentence": "The bridge control cabinet houses an AC-DC power converter for internal logic boards.",
+    "exampleTranslation": "Tủ điều khiển cầu chứa bộ chuyển đổi xoay chiều - một chiều cho các bo mạch logic bên trong."
+  },
+  {
+    "id": 4,
+    "abbreviation": "ACS",
+    "fullName": "Access Control System",
+    "meaning": "Hệ thống kiểm soát ra vào",
+    "category": "Airport Operations",
+    "exampleSentence": "Swipe your airport security badge on the ACS reader to enter the bridge service door.",
+    "exampleTranslation": "Quẹt thẻ an ninh sân bay trên đầu đọc ACS để mở cửa dịch vụ cầu dẫn."
+  },
+  {
+    "id": 5,
+    "abbreviation": "AODB",
+    "fullName": "Airport Operational Database",
+    "meaning": "Cơ sở dữ liệu khai thác sân bay",
+    "category": "Airport Operations",
+    "exampleSentence": "Flight arrival and departure times are synchronized automatically from the AODB.",
+    "exampleTranslation": "Giờ máy bay đến và đi được đồng bộ tự động từ cơ sở dữ liệu khai thác sân bay AODB."
+  },
+  {
+    "id": 6,
+    "abbreviation": "APU",
+    "fullName": "Auxiliary Power Unit",
+    "meaning": "Bộ nguồn phụ của tàu bay",
+    "category": "General Aviation",
+    "exampleSentence": "Pilots shut down the APU to save jet fuel as soon as the bridge GPU cable is connected.",
+    "exampleTranslation": "Phi công tắt APU để tiết kiệm nhiên liệu ngay khi cáp GPU của cầu được kết nối."
+  },
+  {
+    "id": 7,
+    "abbreviation": "ARFF",
+    "fullName": "Aircraft Rescue and Fire Fighting",
+    "meaning": "Cứu nạn và chữa cháy tàu bay",
+    "category": "Safety",
+    "exampleSentence": "In case of fuel spillage near the stand, immediately notify ARFF and airport operations.",
+    "exampleTranslation": "Trong trường hợp tràn nhiên liệu gần bãi đỗ, hãy báo ngay cho đội cứu nạn chữa cháy tàu bay ARFF."
+  },
+  {
+    "id": 8,
+    "abbreviation": "AS",
+    "fullName": "Australian Standard",
+    "meaning": "Tiêu chuẩn Úc",
+    "category": "Standards & Organizations",
+    "exampleSentence": "The boarding bridge structural safety components adhere to AS and international guidelines.",
+    "exampleTranslation": "Các bộ phận an toàn kết cấu cầu hành khách tuân thủ Tiêu chuẩn Úc AS và hướng dẫn quốc tế."
+  },
+  {
+    "id": 9,
+    "abbreviation": "ATC",
+    "fullName": "Air Traffic Control",
+    "meaning": "Kiểm soát không lưu",
+    "category": "Airport Operations",
+    "exampleSentence": "The aircraft taxied to Stand 14 after receiving clearance from ATC ground control.",
+    "exampleTranslation": "Máy bay lăn vào bến đỗ 14 sau khi nhận huấn lệnh từ đài kiểm soát không lưu mặt đất."
+  },
+  {
+    "id": 10,
+    "abbreviation": "ATM",
+    "fullName": "Automated Teller Machine",
+    "meaning": "Máy rút tiền tự động",
+    "category": "Airport Operations",
+    "exampleSentence": "ATMs and currency exchange counters are situated along the departure gate concourse.",
+    "exampleTranslation": "Máy rút tiền tự động và quầy đổi ngoại tệ được đặt dọc hành lang khu vực cửa khởi hành."
+  },
+  {
+    "id": 11,
+    "abbreviation": "BHS",
+    "fullName": "Baggage Handling System",
+    "meaning": "Hệ thống xử lý hành lý",
+    "category": "Airport Operations",
+    "exampleSentence": "Luggage from incoming flights is routed through the BHS sorter to the arrival carousel.",
+    "exampleTranslation": "Hành lý từ chuyến bay đến được chuyển qua hệ thống phân loại BHS tới băng chuyền trả hành lý."
+  },
+  {
+    "id": 12,
+    "abbreviation": "CAB",
+    "fullName": "Cabin",
+    "meaning": "Buồng lái/cabin của cầu hành khách",
+    "category": "PBB",
+    "exampleSentence": "The operator must remain inside the CAB while maneuvering the bridge toward the aircraft door.",
+    "exampleTranslation": "Nhân viên vận hành phải ở trong buồng lái CAB khi điều khiển cầu tiếp cận cửa máy bay."
+  },
+  {
+    "id": 13,
+    "abbreviation": "CCTV",
+    "fullName": "Closed-Circuit Television",
+    "meaning": "Hệ thống camera giám sát",
+    "category": "Airport Operations",
+    "exampleSentence": "CCTV cameras monitor the bridge apron area to prevent unauthorized vehicle movement.",
+    "exampleTranslation": "Camera CCTV giám sát khu vực sân đỗ quanh cầu nhằm ngăn chặn phương tiện xâm nhập trái phép."
+  },
+  {
+    "id": 14,
+    "abbreviation": "DC",
+    "fullName": "Docking Controller",
+    "meaning": "Bộ điều khiển cập cầu",
+    "category": "PBB",
+    "exampleSentence": "The joystick on the DC console allows smooth drive and elevation adjustments.",
+    "exampleTranslation": "Cần điều khiển trên bàn điều khiển cập cầu DC cho phép điều chỉnh di chuyển và nâng hạ êm ái."
+  },
+  {
+    "id": 15,
+    "abbreviation": "EMC",
+    "fullName": "Electromagnetic Compatibility",
+    "meaning": "Tương thích điện từ",
+    "category": "Electrical",
+    "exampleSentence": "All drive inverters must satisfy EMC standards to prevent interference with avionics.",
+    "exampleTranslation": "Mọi biến tần truyền động phải đáp ứng tiêu chuẩn tương thích điện từ EMC để tránh gây nhiễu thiết bị điện tử hàng không."
+  },
+  {
+    "id": 16,
+    "abbreviation": "EPO",
+    "fullName": "Emergency Power Off",
+    "meaning": "Ngắt nguồn khẩn cấp",
+    "category": "Safety",
+    "exampleSentence": "Press the red EPO mushroom button immediately if the bridge fails to halt near the fuselage.",
+    "exampleTranslation": "Nhấn nút ngắt nguồn khẩn cấp EPO màu đỏ ngay lập tức nếu cầu không dừng lại khi gần thân máy bay."
+  },
+  {
+    "id": 17,
+    "abbreviation": "EPDM",
+    "fullName": "Ethylene Propylene Diene Monomer",
+    "meaning": "Cao su EPDM",
+    "category": "PBB",
+    "exampleSentence": "Inspect the EPDM rubber bumper on the bridge canopy for tears or hardening.",
+    "exampleTranslation": "Kiểm tra đệm cao su EPDM trên mui chụp cầu dẫn xem có bị rách hoặc chai cứng không."
+  },
+  {
+    "id": 18,
+    "abbreviation": "FDA",
+    "fullName": "Food and Drug Administration",
+    "meaning": "Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ",
+    "category": "Standards & Organizations",
+    "exampleSentence": "Potable water hoses attached to boarding bridges must meet FDA food contact regulations.",
+    "exampleTranslation": "Ống cấp nước sinh hoạt gắn trên cầu dẫn phải đáp ứng quy định tiếp xúc thực phẩm của FDA."
+  },
+  {
+    "id": 19,
+    "abbreviation": "FMS",
+    "fullName": "Fence Management System",
+    "meaning": "Hệ thống quản lý/phát hiện xâm nhập vành đai",
+    "category": "Airport Operations",
+    "exampleSentence": "The security operations center tracks perimeter alarms via the airport FMS.",
+    "exampleTranslation": "Trung tâm an ninh theo dõi cảnh báo hàng rào thông qua hệ thống quản lý vành đai FMS."
+  },
+  {
+    "id": 20,
+    "abbreviation": "FOD",
+    "fullName": "Foreign Object Debris",
+    "meaning": "Vật thể/dị vật ngoại lai",
+    "category": "Safety",
+    "exampleSentence": "Conduct a FOD walk around the bridge wheel path prior to initiating docking operations.",
+    "exampleTranslation": "Thực hiện kiểm tra dị vật ngoại lai FOD trên đường lăn bánh xe cầu trước khi thao tác cập cầu."
+  },
+  {
+    "id": 21,
+    "abbreviation": "GOP",
+    "fullName": "Graphic Operation Panel",
+    "meaning": "Bảng điều khiển vận hành đồ họa",
+    "category": "Control Systems",
+    "exampleSentence": "The touchscreen GOP displays bridge height, tunnel extension, and fault diagnostic codes.",
+    "exampleTranslation": "Màn hình cảm ứng GOP hiển thị độ cao cầu, độ dài đường hầm và mã chẩn đoán lỗi."
+  },
+  {
+    "id": 22,
+    "abbreviation": "GPU",
+    "fullName": "Ground Power Unit",
+    "meaning": "Hệ thống cấp điện",
+    "category": "Electrical",
+    "exampleSentence": "Lower the bridge GPU cable retriever and firmly connect the 90kVA plug to the aircraft receptacle.",
+    "exampleTranslation": "Hạ cuộn cáp GPU của cầu xuống và cắm chắc chắn đầu cắm 90kVA vào ổ tiếp điện máy bay."
+  },
+  {
+    "id": 23,
+    "abbreviation": "HKQT",
+    "fullName": "Chưa có tên tiếng Anh (International Aviation)",
+    "meaning": "Hàng không quốc tế",
+    "category": "General Aviation",
+    "exampleSentence": "Terminals handling HKQT flights require dedicated customs, immigration, and quarantine checkpoints.",
+    "exampleTranslation": "Nhà ga phục vụ các chuyến bay hàng không quốc tế yêu cầu khu vực kiểm soát hải quan và nhập cảnh riêng biệt.",
+    "note": "Thuật ngữ viết tắt nội bộ tiếng Việt cho Hàng Không Quốc Tế (cần bổ sung tên tiếng Anh chính thức)."
+  },
+  {
+    "id": 24,
+    "abbreviation": "HVAC",
+    "fullName": "Heating, Ventilation and Air Conditioning",
+    "meaning": "Hệ thống sưởi, thông gió và điều hòa không khí",
+    "category": "Airport Operations",
+    "exampleSentence": "The bridge tunnel HVAC system maintains a comfortable temperature for passengers boarding.",
+    "exampleTranslation": "Hệ thống điều hòa không khí HVAC trong đường hầm cầu duy trì nhiệt độ dễ chịu cho hành khách lên máy bay."
+  },
+  {
+    "id": 25,
+    "abbreviation": "I/O",
+    "fullName": "Input/Output",
+    "meaning": "Ngõ vào/Ngõ ra",
+    "category": "Control Systems",
+    "exampleSentence": "Check the PLC I/O status LED indicators if a limit switch signal is missing.",
+    "exampleTranslation": "Kiểm tra đèn LED trạng thái ngõ vào/ngõ ra I/O của PLC nếu tín hiệu công tắc hành trình bị mất."
+  },
+  {
+    "id": 26,
+    "abbreviation": "IGBT",
+    "fullName": "Insulated-Gate Bipolar Transistor",
+    "meaning": "Transistor lưỡng cực cổng cách điện",
+    "category": "Electrical",
+    "exampleSentence": "Modern PBB drive units rely on IGBT modules for efficient motor speed switching.",
+    "exampleTranslation": "Bộ truyền động PBB hiện đại sử dụng các mô-đun IGBT để đóng cắt tốc độ động cơ hiệu quả."
+  },
+  {
+    "id": 27,
+    "abbreviation": "IPU",
+    "fullName": "Image Processing Unit",
+    "meaning": "Khối xử lý hình ảnh",
+    "category": "Control Systems",
+    "exampleSentence": "The safety camera system incorporates an IPU to detect obstacles underneath the wheel carriage.",
+    "exampleTranslation": "Hệ thống camera an toàn tích hợp khối xử lý hình ảnh IPU để phát hiện vật cản dưới gầm xe bánh di chuyển."
+  },
+  {
+    "id": 28,
+    "abbreviation": "ISO",
+    "fullName": "International Organization for Standardization",
+    "meaning": "Tổ chức Tiêu chuẩn hóa Quốc tế",
+    "category": "Standards & Organizations",
+    "exampleSentence": "Airport quality and environmental safety procedures comply with ISO 9001 and ISO 14001.",
+    "exampleTranslation": "Quy trình chất lượng và an toàn môi trường sân bay tuân thủ tiêu chuẩn ISO 9001 và ISO 14001."
+  },
+  {
+    "id": 29,
+    "abbreviation": "LCD",
+    "fullName": "Liquid Crystal Display",
+    "meaning": "Màn hình tinh thể lỏng",
+    "category": "Control Systems",
+    "exampleSentence": "The control station is equipped with a high-brightness LCD visible under direct sunlight.",
+    "exampleTranslation": "Bàn điều khiển được trang bị màn hình tinh thể lỏng LCD độ sáng cao nhìn rõ dưới ánh nắng trực tiếp."
+  },
+  {
+    "id": 30,
+    "abbreviation": "LED",
+    "fullName": "Light-Emitting Diode",
+    "meaning": "Đi-ốt phát quang",
+    "category": "Electrical",
+    "exampleSentence": "LED floodlights illuminate the bridge apron area during nighttime parking operations.",
+    "exampleTranslation": "Đèn pha LED chiếu sáng khu vực sân đỗ cầu dẫn trong suốt các hoạt động cập đỗ ban đêm."
+  },
+  {
+    "id": 31,
+    "abbreviation": "LTIA",
+    "fullName": "Long Thành International Airport",
+    "meaning": "Cảng hàng không quốc tế Long Thành",
+    "category": "Airport Operations",
+    "exampleSentence": "LTIA is designed with next-generation smart passenger boarding bridges and automated docking guidance.",
+    "exampleTranslation": "Cảng hàng không quốc tế Long Thành được thiết kế với các cầu hành khách thông minh thế hệ mới."
+  },
+  {
+    "id": 32,
+    "abbreviation": "MCB",
+    "fullName": "Manual Control Board",
+    "meaning": "Bảng điều khiển thủ công",
+    "category": "Control Systems",
+    "exampleSentence": "In case of touch-screen GOP failure, operators can switch over to the auxiliary MCB.",
+    "exampleTranslation": "Trong trường hợp hỏng màn hình GOP, người vận hành có thể chuyển sang bảng điều khiển thủ công MCB."
+  },
+  {
+    "id": 33,
+    "abbreviation": "NSF",
+    "fullName": "NSF International",
+    "meaning": "Tổ chức chứng nhận/tiêu chuẩn an toàn và sức khỏe cộng đồng",
+    "category": "Standards & Organizations",
+    "exampleSentence": "Potable water hoses and fittings installed on the bridge must bear NSF certification marks.",
+    "exampleTranslation": "Đường ống cấp nước sạch và khớp nối gắn trên cầu phải có chứng nhận tiêu chuẩn của tổ chức NSF."
+  },
+  {
+    "id": 34,
+    "abbreviation": "PBB",
+    "fullName": "Passenger Boarding Bridge",
+    "meaning": "Cầu hành khách",
+    "category": "PBB",
+    "exampleSentence": "Never leave the PBB unattended while connected to an aircraft door.",
+    "exampleTranslation": "Tuyệt đối không rời vị trí khi cầu hành khách PBB đang kết nối với cửa tàu bay."
+  },
+  {
+    "id": 35,
+    "abbreviation": "PCA",
+    "fullName": "Pre-Conditioned Air",
+    "meaning": "Hệ thống cấp khí điều hòa",
+    "category": "PBB",
+    "exampleSentence": "Connect the flexible PCA duct to the aircraft belly to supply cooled air before boarding.",
+    "exampleTranslation": "Nối ống mềm cấp khí điều hòa PCA vào bụng máy bay để cấp khí mát trước khi hành khách lên tàu."
+  },
+  {
+    "id": 36,
+    "abbreviation": "PCB",
+    "fullName": "Printed Circuit Board",
+    "meaning": "Bo mạch in",
+    "category": "Electrical",
+    "exampleSentence": "Keep electrical cabinet doors closed tightly to protect delicate PCBs from humidity and dust.",
+    "exampleTranslation": "Đóng chặt nắp tủ điện để bảo vệ các bo mạch in PCB nhạy cảm khỏi bụi bẩn và độ ẩm."
+  },
+  {
+    "id": 37,
+    "abbreviation": "PDU",
+    "fullName": "Pilot Display Unit",
+    "meaning": "Bảng hiển thị cho phi công",
+    "category": "PBB",
+    "exampleSentence": "The PDU indicates stop distance, azimuth deviation, and aircraft type to the incoming cockpit.",
+    "exampleTranslation": "Bảng hiển thị cho phi công PDU hiển thị cự ly dừng, độ lệch tim đường và loại tàu bay cho buồng lái."
+  },
+  {
+    "id": 38,
+    "abbreviation": "PIN",
+    "fullName": "Personal Identification Number",
+    "meaning": "Mã số nhận dạng cá nhân",
+    "category": "Airport Operations",
+    "exampleSentence": "Enter your authorized PIN on the console keypad to unlock bridge drive controls.",
+    "exampleTranslation": "Nhập mã số định danh PIN được phân quyền trên bàn phím điều khiển để mở khóa vận hành cầu."
+  },
+  {
+    "id": 39,
+    "abbreviation": "PLC",
+    "fullName": "Programmable Logic Controller",
+    "meaning": "Bộ điều khiển logic khả trình",
+    "category": "Control Systems",
+    "exampleSentence": "The central PLC coordinates bridge interlocks, auto-leveling sensors, and travel limits.",
+    "exampleTranslation": "Bộ điều khiển PLC trung tâm điều phối khóa liên động, cảm biến cân bằng tự động và giới hạn di chuyển."
+  },
+  {
+    "id": 40,
+    "abbreviation": "PTB",
+    "fullName": "Passenger Terminal Building",
+    "meaning": "Nhà ga hành khách",
+    "category": "Airport Operations",
+    "exampleSentence": "The fixed bridge rotunda links the terminal building PTB directly to the telescoping tunnels.",
+    "exampleTranslation": "Khớp quay cố định kết nối nhà ga hành khách PTB trực tiếp với các đường hầm lồng rút."
+  },
+  {
+    "id": 41,
+    "abbreviation": "PWS",
+    "fullName": "Potable Water System",
+    "meaning": "Hệ thống cấp nước",
+    "category": "Airport Operations",
+    "exampleSentence": "Sanitize and flush the PWS cabinet hose lines according to weekly preventive maintenance checklists.",
+    "exampleTranslation": "Khử trùng và súc rửa đường ống hệ thống cấp nước PWS theo danh mục bảo dưỡng phòng ngừa hàng tuần."
+  },
+  {
+    "id": 42,
+    "abbreviation": "PVC",
+    "fullName": "Polyvinyl Chloride",
+    "meaning": "Polyvinyl clorua",
+    "category": "Electrical",
+    "exampleSentence": "Flexible PVC cable conduits protect internal power and control wiring along tunnel hinges.",
+    "exampleTranslation": "Ống luồn cáp PVC dẻo bảo vệ dây dẫn điện và tín hiệu điều khiển chạy dọc các khớp xoay đường hầm."
+  },
+  {
+    "id": 43,
+    "abbreviation": "PRV",
+    "fullName": "Pressure Reducing Valve",
+    "meaning": "Van giảm áp",
+    "category": "PBB",
+    "exampleSentence": "A PRV regulates the water pressure supplying the bridge service station to avoid hose rupture.",
+    "exampleTranslation": "Van giảm áp PRV điều áp đường nước cấp cho trạm dịch vụ cầu để tránh làm bục vỡ ống dẫn."
+  },
+  {
+    "id": 44,
+    "abbreviation": "RFID",
+    "fullName": "Radio Frequency Identification",
+    "meaning": "Nhận dạng bằng tần số vô tuyến",
+    "category": "Airport Operations",
+    "exampleSentence": "Operators tap their authorized RFID security card to enable the PBB key switch.",
+    "exampleTranslation": "Kỹ thuật viên chạm thẻ định danh RFID để kích hoạt công tắc chìa khóa vận hành cầu."
+  },
+  {
+    "id": 45,
+    "abbreviation": "RPZ",
+    "fullName": "Reduced Pressure Zone",
+    "meaning": "Thiết bị chống chảy ngược vùng áp suất giảm",
+    "category": "PBB",
+    "exampleSentence": "The RPZ backflow preventer protects the airport municipal water supply from contaminated back-siphonage.",
+    "exampleTranslation": "Thiết bị RPZ ngăn dòng chảy ngược bảo vệ mạng nước cấp sân bay khỏi hiện tượng hút ngược ô nhiễm."
+  },
+  {
+    "id": 46,
+    "abbreviation": "ROT",
+    "fullName": "Rotation",
+    "meaning": "Góc quay/độ quay",
+    "category": "PBB",
+    "exampleSentence": "Monitor the cabin ROT angle meter to ensure the bridge mating angle matches the aircraft door sill.",
+    "exampleTranslation": "Quan sát đồng hồ đo góc quay ROT buồng lái để đảm bảo độ khít với bậc cửa tàu bay."
+  },
+  {
+    "id": 47,
+    "abbreviation": "SCADA",
+    "fullName": "Supervisory Control and Data Acquisition",
+    "meaning": "Hệ thống giám sát, điều khiển và thu thập dữ liệu",
+    "category": "Control Systems",
+    "exampleSentence": "Maintenance engineers monitor real-time PBB operational status through the airport SCADA network.",
+    "exampleTranslation": "Kỹ sư bảo trì theo dõi trạng thái vận hành cầu hành khách theo thời gian thực qua hệ thống SCADA sân bay."
+  },
+  {
+    "id": 48,
+    "abbreviation": "SMS",
+    "fullName": "Safety Management System",
+    "meaning": "Hệ thống quản lý an toàn",
+    "category": "Safety",
+    "exampleSentence": "Any near-miss incident during bridge docking must be logged promptly in the airport SMS.",
+    "exampleTranslation": "Mọi sự cố suýt nguy hiểm khi cập cầu phải được ghi nhận kịp thời vào hệ thống quản lý an toàn SMS."
+  },
+  {
+    "id": 49,
+    "abbreviation": "SOP",
+    "fullName": "Standard Operating Procedure",
+    "meaning": "Quy trình vận hành tiêu chuẩn",
+    "category": "Safety",
+    "exampleSentence": "Always follow the SOP: inspect clearances, sound warning horn, and advance at creep speed.",
+    "exampleTranslation": "Luôn tuân thủ quy trình SOP: quan sát khoảng hở, bấm còi cảnh báo và di chuyển ở tốc độ rùa (chậm nhất)."
+  },
+  {
+    "id": 50,
+    "abbreviation": "SS",
+    "fullName": "Stainless Steel",
+    "meaning": "Thép không gỉ",
+    "category": "PBB",
+    "exampleSentence": "The external service staircases and handrails are fabricated from weather-resistant SS 316.",
+    "exampleTranslation": "Cầu thang dịch vụ ngoài trời và tay vịn được chế tạo bằng thép không gỉ SS 316 chịu thời tiết."
+  },
+  {
+    "id": 51,
+    "abbreviation": "TMAN",
+    "fullName": "Turnaround Manager",
+    "meaning": "Hệ thống phần mềm quản lý quay đầu tàu bay",
+    "category": "Airport Operations",
+    "exampleSentence": "Ground handlers monitor bridge connection milestones on the TMAN departure dashboard.",
+    "exampleTranslation": "Đơn vị phục vụ mặt đất theo dõi các mốc thời gian kết nối cầu trên phần mềm quản lý quay đầu TMAN."
+  },
+  {
+    "id": 52,
+    "abbreviation": "ULD",
+    "fullName": "Unit Load Device",
+    "meaning": "Thiết bị/đơn vị chứa và xếp hàng hóa, hành lý",
+    "category": "General Aviation",
+    "exampleSentence": "Keep the bridge drive wheel path clear of baggage tractors and ULD cargo dollies.",
+    "exampleTranslation": "Giữ cho vệt bánh xe di chuyển của cầu dẫn luôn thông thoáng, không bị vướng xe kéo và thùng ULD."
+  },
+  {
+    "id": 53,
+    "abbreviation": "UPS",
+    "fullName": "Uninterruptible Power Supply",
+    "meaning": "Bộ lưu điện",
+    "category": "Electrical",
+    "exampleSentence": "The UPS maintains backup power to safety lighting and PLC controllers during mains outage.",
+    "exampleTranslation": "Bộ lưu điện UPS duy trì nguồn dự phòng cho đèn thoát hiểm và bộ điều khiển PLC khi mất điện lưới."
+  },
+  {
+    "id": 54,
+    "abbreviation": "US",
+    "fullName": "United States",
+    "meaning": "Hoa Kỳ",
+    "category": "Standards & Organizations",
+    "exampleSentence": "Many international airports adopt NFPA guidelines originating from the US for terminal fire safety.",
+    "exampleTranslation": "Nhiều sân bay quốc tế áp dụng tiêu chuẩn phòng cháy chữa cháy NFPA có xuất xứ từ Hoa Kỳ."
+  },
+  {
+    "id": 55,
+    "abbreviation": "VFD",
+    "fullName": "Variable Frequency Drive",
+    "meaning": "Bộ biến tần/thiết bị điều khiển tần số",
+    "category": "Control Systems",
+    "exampleSentence": "The VFD ramps down wheel speed smoothly as the cabin nears the fuselage bumper zone.",
+    "exampleTranslation": "Bộ biến tần VFD giảm tốc độ bánh xe một cách êm ái khi buồng lái tiến sát vùng đệm thân máy bay."
+  },
+  {
+    "id": 56,
+    "abbreviation": "VGDS",
+    "fullName": "Visual Docking Guidance System",
+    "meaning": "Hệ thống hướng dẫn cập/đỗ tàu bay",
+    "category": "PBB",
+    "exampleSentence": "The aircraft follows the optical laser azimuth guidance from the stand VGDS until the STOP mark.",
+    "exampleTranslation": "Máy bay theo dõi chỉ dẫn laser quang học từ hệ thống VGDS tại bãi đỗ cho tới vạch DỪNG."
+  },
+  {
+    "id": 57,
+    "abbreviation": "VIP",
+    "fullName": "Very Important Person",
+    "meaning": "Hành khách/đối tượng rất quan trọng",
+    "category": "Airport Operations",
+    "exampleSentence": "Special escort protocol applies when VIP passengers deplane via the dedicated gate bridge.",
+    "exampleTranslation": "Giao thức dẫn đường đặc biệt được áp dụng khi hành khách VIP rời máy bay qua cầu dẫn riêng biệt."
+  }
+]
