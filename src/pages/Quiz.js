@@ -339,3 +339,4 @@ export function renderQuiz(container, { vocabulary, navigateTo }) {
   // Initial render
   renderSetupScreen();
 }
+

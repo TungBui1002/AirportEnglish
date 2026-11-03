@@ -211,3 +211,4 @@ export function renderDashboard(container, { vocabulary, sentences, navigateTo }
   container.querySelector('#ql-sentence')?.addEventListener('click', () => navigateTo('sentence-practice'));
   container.querySelector('#ql-sentence-quiz')?.addEventListener('click', () => navigateTo('sentence-quiz'));
 }
+

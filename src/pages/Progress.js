@@ -159,3 +159,4 @@ export function renderProgress(container, { vocabulary, navigateTo }) {
     });
   });
 }
+

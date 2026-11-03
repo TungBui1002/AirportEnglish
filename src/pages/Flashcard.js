@@ -256,3 +256,4 @@ export function renderFlashcard(container, { vocabulary }) {
   // Initial draw
   updateCardUI();
 }
+

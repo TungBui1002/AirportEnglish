@@ -198,3 +198,4 @@ export function renderSentencePractice(container, { sentences, navigateTo }) {
   // Initial render
   renderList();
 }
+

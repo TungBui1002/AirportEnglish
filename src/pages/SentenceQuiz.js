@@ -393,3 +393,4 @@ export function renderSentenceQuiz(container, { sentences, navigateTo }) {
   // Start initial session
   startQuiz();
 }
+

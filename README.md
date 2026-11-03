@@ -244,3 +244,4 @@ Sau khi thêm, hệ thống sẽ tự động cập nhật thống kê, bộ l�
 
 ## ⚠️ Tuyên bố miễn trừ trách nhiệm
 Ứng dụng **Airport English – PBB Learning** được xây dựng nhằm mục đích học tập, rèn luyện ngoại ngữ và nâng cao phản xạ tiếng Anh chuyên ngành. Các mẫu câu, thuật ngữ và tình huống an toàn trong ứng dụng không thay thế cho tài liệu **SOP chính thức**, sổ tay vận hành của nhà sản xuất PBB (OEM Manuals) hay các quy chế an toàn bay do Cục Hàng không và Cảng Hàng không ban hành.
+

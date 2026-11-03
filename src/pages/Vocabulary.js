@@ -286,3 +286,4 @@ export function renderVocabulary(container, { vocabulary }) {
   // Render initial grid
   renderWordGrid();
 }
+

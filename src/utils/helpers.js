@@ -134,3 +134,4 @@ export function confirmDialog({ title, message, confirmText = 'Xác nhận', can
     if (e.target === modal) close();
   });
 }
+
